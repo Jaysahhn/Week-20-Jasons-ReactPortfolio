@@ -7,13 +7,13 @@ export default function ContactPage() {
         <div>
           <p>Want to get into contact?</p>
           <address>
-            San Antonio, TX <br />
+            San Antonio, TX
+            <br />
             P: <a href="tel:210.418.9836">210.418.9836</a>
             <br />
-            E:{" "}
-            <a href="mailto://jasonmason96@yahoo.com">
-              jasonmason96@yahoo.com
-            </a>
+            E: <a href="mailto://jasonmason96@yahoo.com">jasonmason96@yahoo.com</a>
+            <br />
+            GitHub: <a href="https://github.com/Jaysahhn">Jaysahhn</a>
           </address>
           <p>
             <strong>I'd love to hear your feedback!</strong>
