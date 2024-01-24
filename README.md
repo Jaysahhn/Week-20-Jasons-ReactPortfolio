@@ -2,7 +2,7 @@
 
 ## Description
 
-
+A React portfolio is a professional showcase of a developer's work and skills, built using the React JavaScript library. React is a powerful and popular front-end framework that allows developers to create dynamic and responsive user interfaces. In the context of a portfolio, React enables the creation of a single-page application where different sections such as "About Me," "Portfolio," "Contact," and "Resume" can be seamlessly navigated without the need for page reloads. The portfolio is composed of reusable React components, such as Header, Navigation, Project, and Footer, ensuring a modular and maintainable code structure. This approach not only demonstrates the developer's proficiency in React but also enhances the overall user experience through smooth transitions, interactivity, and a modern design. The React portfolio serves as a comprehensive representation of the developer's technical abilities, creativity, and commitment to delivering polished and user-friendly web applications.
 
 ## Installation
 
@@ -12,7 +12,7 @@ Node Package Manager (NPM), axios, bootstrap, react
 
 [Deployed Application Link](https://jasons-react-portfolio.netlify.app/)
 
-![Screenshot]()
+![Screenshot](https://i.gyazo.com/5276315302ee31e9a9816eaf16572881.png)
 
 
 ## Credits
