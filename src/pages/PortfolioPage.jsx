@@ -1,6 +1,6 @@
 export default function PortfolioPage() {
     return (
-        <div className="container  d-flex justify-content-center">
+        <div className="container  d-flex text-center justify-content-center">
             <div class="row justify-content-center m-3">
                 <div class="col-sm-3 m-3"><a href="https://github.com/Jaysahhn/Week-19-Jasons-PWATextEditor">J.A.T.E</a> <a href="https://asimplepwatexteditor.onrender.com/"><img src="public/assets/JATEProject - Copy.png" className="img-fluid" to='https://asimplepwatexteditor.onrender.com/'></img></a></div>
                 <div class="col-sm-3 m-3"><a href="https://github.com/Jaysahhn/Week-12-Jasons-EmployeeTracker">EmployeeTracker</a> <a href="https://drive.google.com/file/d/1ZWDoxSEjugtozXQaWJTVH4a9-L5-Rqy8/view"><img src="public/assets/EmployeeTrackerProject - Copy.png" className="img-fluid" to='https://drive.google.com/file/d/1ZWDoxSEjugtozXQaWJTVH4a9-L5-Rqy8/view'></img></a></div>
